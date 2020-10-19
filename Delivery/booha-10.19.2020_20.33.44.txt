@@ -1,0 +1,7 @@
+booha
+
+THE ANAGRAMS ARE:
+booha
+
+THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
+There are no palindromes.
