@@ -1,0 +1,8 @@
+inserting
+
+THE ANAGRAMS ARE:
+inserting
+sintering
+
+THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
+There are no palindromes.

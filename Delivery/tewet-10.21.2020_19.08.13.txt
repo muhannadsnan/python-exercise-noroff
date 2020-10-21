@@ -1,0 +1,8 @@
+tewet
+
+THE ANAGRAMS ARE:
+tewet
+tweet
+
+THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
+tewet
