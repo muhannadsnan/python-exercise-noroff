@@ -1,8 +1,15 @@
-inserting
+insert
 
 THE ANAGRAMS ARE:
-inserting
-sintering
+insert
+estrin
+inerts
+inters
+niters
+nitres
+sinter
+triens
+trines
 
 THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
 There are no palindromes.
